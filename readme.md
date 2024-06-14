@@ -25,7 +25,7 @@ Before learning and using Playwright, ensure you have the following installed:
   ```bash
   npm init playwright@latest
   javascript / typescript
-
+```
 
 # Playwright Features Overview
 
@@ -91,7 +91,6 @@ Handle complex automation scenarios with Playwright's advanced features:
     npx playwright test --headed
     npx playwright test --debug
     npx playwright test example.spec.js:21 --debug
-
 ```
 
 # Examples
