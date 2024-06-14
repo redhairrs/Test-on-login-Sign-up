@@ -25,8 +25,7 @@ Before learning and using Playwright, ensure you have the following installed:
   ```bash
   npm init playwright@latest
   javascript / typescript
-```
-
+  
 # Playwright Features Overview
 
 Playwright is a powerful automation tool for testing web applications, providing a comprehensive set of features that make it ideal for modern web development workflows.
