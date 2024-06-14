@@ -90,7 +90,7 @@ Handle complex automation scenarios with Playwright's advanced features:
     npx playwright test --headed
     npx playwright test --debug
     npx playwright test example.spec.js:21 --debug
-```
+
 
 # Examples
 
